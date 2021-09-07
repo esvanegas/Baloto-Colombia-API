@@ -2,9 +2,9 @@
 
 El presente repositorio tiene como objetivo presentar algunos de los tipos de da información disponibles para consultar, así como mostrar la funcionalidad de estos para obtener datos del juego de azar colombiano _Baloto - Revancha_
 
-Cabe aclarar que esta documentacion _**NO**_ es información oficial, la información expresada a continuación se obtuvo realizando ingeniería inversa a la página oficial del baloto - [www.baloto.com](https://www.baloto.com).
+Cabe aclarar que esta documentación _**NO**_ es información oficial, la información expresada a continuación se obtuvo realizando ingeniería inversa a la página oficial del baloto - [www.baloto.com](https://www.baloto.com).
 
-# Indice
+# Índice
 
 1. [Información general](#general)
     - [Tipos de consulta](#types)
